@@ -1,0 +1,8 @@
+backend/.deps/
+.venv/
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+data/
+__pycache__/
+*.pyc
